@@ -1,0 +1,50 @@
+body {
+    background-color: aquamarine;
+}
+
+h1 {
+    font-family: cursive;
+    font-size: 250%;
+    color: gold;
+}
+
+h3 {
+    font-family: fantasy;
+    color: crimson;
+    font-weight: bold;
+}
+
+li {
+    list-style-type: none;
+}
+
+a{
+    font-family: monospace;
+    letter-spacing: 3.14em;
+    text-decoration: none;
+    color: wheat;
+    background: lightsteelblue;
+    font-size: 166%;
+}
+
+a:hover{
+    color: aqua;
+    letter-spacing: 4em;
+}
+
+p {
+    margin: 12%;
+    text-align: center;
+    font-family: sans-serif;
+    color: seagreen;
+    margin-top: 0;
+    font-size: 125%;
+}
+
+h2 {
+    font-family:serif;
+    color: beige;
+    outline-color: black;
+    font-size: 980%;
+    text-align: center;
+}
