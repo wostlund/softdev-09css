@@ -48,3 +48,53 @@ h2 {
     font-size: 980%;
     text-align: center;
 }
+
+.navzone {
+    background-color: mediumspringgreen;
+    border: 12px solid darkmagenta;
+}
+
+.navzone:hover{
+    border-width: 120px;
+}
+
+.content {
+    background-color: lemonchiffon;
+    border: 12px solid lavender;
+}
+
+.content:hover{
+    background-color: mediumaquamarine;
+    border: 120px solid saddlebrown;
+}
+
+.prose {
+    background-color: greenyellow;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#tehlulz {
+    background-color: chartreuse;
+}
+
+.extreme {
+    margin: 1%;
+    background-color: lightcyan;
+    margin-left: 12%;
+    margin-right: 12%;
+    text-align: center;
+    font-size: 190%;
+}
+
+#head1{
+    margin-right: 12%;
+    margin-left: 12%;
+    background-color: khaki;
+    font-family: monospace;
+}
+
+#head1:hover{
+    font-family: cursive;
+}
+
